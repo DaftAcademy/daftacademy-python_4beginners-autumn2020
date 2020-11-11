@@ -1,0 +1,7 @@
+*.ipynb_checkpoints*
+*reveal.js
+*slides.sh
+*slides_reveal.tpl
+*test.py
+*slides.html
+*.pyc
